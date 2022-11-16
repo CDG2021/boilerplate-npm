@@ -1,6 +1,10 @@
 {
-	"author": "Carlos G.",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Carlos G.",
+	"description": "Project part of the free code camp curriculum for the back end development and apis",
+	"keywords": ["freecodecamp", "project", "json"],
+	"license": "MIT",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
